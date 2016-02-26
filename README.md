@@ -68,3 +68,6 @@ Union: Combine or merge two groups into a single group.
 Dynamic programming algorithm for finding the most likely sequence of hidden states - known as the Viterbi path - that result in a sequence of observed events, especially in the context of hidden Markov models.
 
 source: http://www.risc.jku.at/people/ckoutsch/stuff/e_algorithms.html
+
+Big-O cheat sheet
+http://bigocheatsheet.com/
