@@ -1,4 +1,6 @@
-##Sample Definitions of some Data Structures and Algorithms (Java):
+#Sample Definitions of some Data Structures and Algorithms (Java):
+
+##I. Data Structires:
 
 ##Linked Lists
 Each node in a linked list has a data element and a pointer to the next node:
@@ -73,7 +75,7 @@ The process of visiting each node in a tree is called tree traversal. There are 
 		}
 ```
 	
-	**Post Order**
+**Post Order**
 
 ```java
 		public static void postOrder(TNode root) {
@@ -90,3 +92,17 @@ A hash map is used to associate a key with a value
 theoretically each operation (insertion, removal, look-up) requires on average O(1) time
 
 `HashMap<String, String> hm = new HashMap<String, String>();`
+
+##Stack
+A Last-in-First-Out daata structure
+`Stack<String> stack = new Stack <String>();`
+
+##Queues
+A First-In-First-Out data structure
+`Queue<String> queue = new LinkedList<String>();`
+
+##Graph
+A set of nodes that are connected by links, represented using an adjacency matrix or an adjacency list.
+
+
+##II. Algorithms:
